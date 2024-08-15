@@ -20,7 +20,7 @@ export default function Header() {
             <IoIosMenu className="text-2xl" />
           </button>
           <span
-            className={`${"__className_910e10 "} text-4xl block text-center logo`}
+            className={`${monoton.className} text-4xl block text-center logo`}
           >
             Abanti <br /> Sarkar
           </span>
